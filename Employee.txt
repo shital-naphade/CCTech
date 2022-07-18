@@ -1,5 +1,0 @@
-    1         Shital    Shital@gmail.com     9876987689           6000           Developer
-    2           Vish      Vish@gmail.com     7898787878           8000              Tester
-    3           Niks      Niks@gmail.com     7867787878           9000           Developer
-    4            Viv       Viv@gmail.com     9876549876           7000              Tester
-    5          Shwet     Shwet@gmail.com    98989898987           8000              tester
