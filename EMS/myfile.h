@@ -83,17 +83,17 @@ void File::searchForRecord(char id)
 }
 void File::updateRecord(char id)
 {
-    string name,email,contact,designation;
-    double salary;
-    file.open("Employee.txt",ios::in);  
-    string myText;
-    while (getline(file, myText))
-    {
-        if(myText[0] == id)
-        {
-            cout<<"Enter employee info : ";
-            cin>>name>>email>>contact>>salary>>designation;
-        }
-    }
-    file.close();
+    // string name,email,contact,designation;
+    // double salary;
+    // file.open("Employee.txt",ios::in);  
+    // string myText;
+    // while (getline(file, myText))
+    // {
+    //     if(myText[0] == id)
+    //     {
+    //         cout<<"Enter employee info : ";
+    //         cin>>name>>email>>contact>>salary>>designation;
+    //     }
+    // }
+    // file.close();
 }
