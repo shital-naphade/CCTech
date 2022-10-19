@@ -1,0 +1,8 @@
+D:\Programming\CSharp_Programming\obj\Debug\CSharp_Programming.csproj.AssemblyReference.cache
+D:\Programming\CSharp_Programming\obj\Debug\CSharp_Programming.csproj.SuggestedBindingRedirects.cache
+D:\Programming\CSharp_Programming\obj\Debug\CSharp_Programming.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp_Programming\bin\Debug\CSharp_Programming.exe.config
+D:\Programming\CSharp_Programming\bin\Debug\CSharp_Programming.exe
+D:\Programming\CSharp_Programming\bin\Debug\CSharp_Programming.pdb
+D:\Programming\CSharp_Programming\obj\Debug\CSharp_Programming.exe
+D:\Programming\CSharp_Programming\obj\Debug\CSharp_Programming.pdb
